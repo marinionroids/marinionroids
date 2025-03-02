@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marinionroids&label=Profile%20views&color=0e75b6&style=flat" alt="marinionroids" /> </p>
 
-- Hi, I'm currently working on [DRAWN LOOTBOX](drawngg.com)
+- Hi, I'm currently working on [DRAWN LOOTBOX]([drawngg.com](https://github.com/marinionroids/drawnjava))
 
 - 🌱 I’m currently learning **Java, Spring Boot, React, Git, Docker**
 
-- 👨‍💻 All of my projects are available at [menkshi.com](menkshi.com)
+- 👨‍💻 All of my projects are available at [menkshi.com](https://www.menkshi.com)
 
 - 📫 How to reach me **marin@menkshi.com**
 

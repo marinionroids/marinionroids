@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marinionroids&label=Profile%20views&color=0e75b6&style=flat" alt="marinionroids" /> </p>
 
-- Hi, I'm currently working on [drawngg.com](https://github.com/marinionroids/drawnjava)
+- Hi, I'm currently working on FootballInsights
 
 - 🌱 I’m currently learning **Java, Spring Boot, React, Git, Docker**
 

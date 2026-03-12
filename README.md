@@ -4,10 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marinionroids&label=Profile%20views&color=0e75b6&style=flat" alt="marinionroids" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [menkshi.com](https://www.menkshi.com)
-
-- 📫 How to reach me **marin@menkshi.com**
-
 <img src="https://wakatime.com/badge/user/2a1ab2bc-84ae-48ba-838d-0b58ecc61976.svg"/>
 
 <h3 align="left">Languages and Tools:</h3>
